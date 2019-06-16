@@ -1,2 +1,1 @@
-# fec-qos-demo-cluster
-media trans server cluster with fec qos support
+<div><span style="font-size: 18px;"><b>SRTP-Server服务器[集群版]和相关客户端DEMO可执行程序</b></span></div><div><br /></div><div>SRTP-Server是在RTP-FEC-QOS传输层基础上建立了一套RTP直播流转发服务器，其主要优点：抗丢包能力、实时性、轻量级、稳定性和通用性。服务器支持单机模式和集群模式，在集群模式下支持CDN优选，支持高并发。该服务可用于一对多、多对多等场合的音视频实时互动需求，用户只需集成跨平台的SDK便可快速接入服务器。</div><div><br /></div><div>客户端DEMO以及服务器的配置说明请参考：DEMO说明文档.pdf </div><div>更多文档见：www.mediapro.cc </div>
